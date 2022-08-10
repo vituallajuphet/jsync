@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e7c0dbe.css",
+    "main.js": "/static/js/main.a10c35fd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.73e228406e8c02d5a522.jpg",
+    "static/media/logo.png": "/static/media/logo.fe1646b41d0a33c4dae7.png",
+    "static/media/board.jpg": "/static/media/board.c14b99ca386380e0d17f.jpg",
+    "static/media/syriel.jpg": "/static/media/syriel.6b834c93783dbaa34933.jpg",
+    "static/media/ikoy.jpg": "/static/media/ikoy.9e1a18eb56ce30afd79c.jpg",
+    "static/media/dwight.jpg": "/static/media/dwight.5240bc09d2e6586653bd.jpg",
+    "static/media/sec1img.jpg": "/static/media/sec1img.c3ba5f4aa1371a90d29b.jpg",
+    "static/media/post1.jpg": "/static/media/post1.8f0c988d38ded08c264d.jpg",
+    "static/media/post3.jpg": "/static/media/post3.48b4bc941ad226e65623.jpg",
+    "static/media/post2.jpg": "/static/media/post2.41e43850298cc65c8777.jpg",
+    "index.html": "/index.html",
+    "main.0e7c0dbe.css.map": "/static/css/main.0e7c0dbe.css.map",
+    "main.a10c35fd.js.map": "/static/js/main.a10c35fd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e7c0dbe.css",
+    "static/js/main.a10c35fd.js"
+  ]
+}
